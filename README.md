@@ -19,3 +19,13 @@ List of libraries, frameworks, technologies and articles for studying many techn
 * [ISO/IEC 9899:2018](https://www.iso.org/standard/74528.html)
 
 ## [C++ - ISO/IEC 14882](https://en.wikipedia.org/wiki/C%2B%2B)
+* [C++ Build Benchmarks](https://build-bench.com/)
+* [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
+* [C++ Insights](https://cppinsights.io/)
+* [Compiler Explorer](https://godbolt.org/)
+* [Electronic Arts&reg; implementation of STL](https://github.com/electronicarts/EASTL)
+* [GNU&reg; C++ Library Manual](https://gcc.gnu.org/onlinedocs/libstdc++/manual/index.html)
+* [ISO/IEC 14882:2020](https://www.iso.org/standard/79358.html)
+* [LLVM Source Code](https://github.com/llvm/llvm-project)
+* [Microsoft&reg; implementation of STL](https://github.com/microsoft/STL)
+* [Quick C++ Benchmarks](https://quick-bench.com/)
