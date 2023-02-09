@@ -23,17 +23,20 @@ List of libraries, frameworks, technologies and articles for studying many techn
 * [GNU&reg; Compiler Collection](https://gcc.gnu.org/onlinedocs/)
 
 ## [C++ - ISO/IEC 14882](https://en.wikipedia.org/wiki/C%2B%2B)
-* [C++ Build Benchmarks](https://build-bench.com/)
+### Learning
 * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
-* [C++ Insights](https://cppinsights.io/)
 * [C++Now Conference](https://www.youtube.com/@BoostCon)
-* [Compiler Explorer](https://godbolt.org/)
 * [CppCon Conference](https://www.youtube.com/@CppCon)
-* [Electronic Arts&reg; implementation of STL](https://github.com/electronicarts/EASTL)
 * [GNU&reg; C++ Library Manual](https://gcc.gnu.org/onlinedocs/libstdc++/manual/index.html)
 * [ISO/IEC 14882:2020](https://www.iso.org/standard/79358.html)
+### Libraries/Frameworks
+* [Electronic Arts&reg; implementation of STL](https://github.com/electronicarts/EASTL)
 * [LLVM Source Code](https://github.com/llvm/llvm-project)
 * [Microsoft&reg; implementation of STL](https://github.com/microsoft/STL)
+### Tools
+* [C++ Build Benchmarks](https://build-bench.com/)
+* [C++ Insights](https://cppinsights.io/)
+* [Compiler Explorer](https://godbolt.org/)
 * [Quick C++ Benchmarks](https://quick-bench.com/)
 
 ## [Java](https://en.wikipedia.org/wiki/Java_%28programming_language%29)
