@@ -23,6 +23,7 @@ List of libraries, frameworks, technologies and articles for studying many techn
 * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 * [C++ Insights](https://cppinsights.io/)
 * [Compiler Explorer](https://godbolt.org/)
+* [CppCon Conference](https://www.youtube.com/@CppCon)
 * [Electronic Arts&reg; implementation of STL](https://github.com/electronicarts/EASTL)
 * [GNU&reg; C++ Library Manual](https://gcc.gnu.org/onlinedocs/libstdc++/manual/index.html)
 * [ISO/IEC 14882:2020](https://www.iso.org/standard/79358.html)
