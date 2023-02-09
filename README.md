@@ -13,3 +13,7 @@ List of libraries, frameworks, technologies and articles for studying many techn
 * [Netwide&reg; Assembler](https://nasm.us/docs.php)
 
 ## [C - ISO/IEC 9899](https://en.wikipedia.org/wiki/C_%28programming_language%29)
+* [Microsoft&reg; C Language Reference](https://learn.microsoft.com/en-us/cpp/c-language/c-language-reference?view=msvc-170)
+* [GNU&reg C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
+* [GNU&reg; Compiler Collection](https://gcc.gnu.org/onlinedocs/)
+* [ISO/IEC 9899:2018](https://www.iso.org/standard/74528.html)
