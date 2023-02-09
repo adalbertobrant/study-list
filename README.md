@@ -17,3 +17,5 @@ List of libraries, frameworks, technologies and articles for studying many techn
 * [GNU&reg; C Reference Manual](https://www.gnu.org/software/gnu-c-manual/gnu-c-manual.html)
 * [GNU&reg; Compiler Collection](https://gcc.gnu.org/onlinedocs/)
 * [ISO/IEC 9899:2018](https://www.iso.org/standard/74528.html)
+
+## [C++ - ISO/IEC 14882](https://en.wikipedia.org/wiki/C%2B%2B)
