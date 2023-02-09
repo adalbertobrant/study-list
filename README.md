@@ -22,6 +22,7 @@ List of libraries, frameworks, technologies and articles for studying many techn
 * [C++ Build Benchmarks](https://build-bench.com/)
 * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines)
 * [C++ Insights](https://cppinsights.io/)
+* [C++Now Conference](https://www.youtube.com/@BoostCon)
 * [Compiler Explorer](https://godbolt.org/)
 * [CppCon Conference](https://www.youtube.com/@CppCon)
 * [Electronic Arts&reg; implementation of STL](https://github.com/electronicarts/EASTL)
