@@ -43,3 +43,6 @@ List of libraries, frameworks, technologies and articles for studying many techn
 * [Dev.java](https://dev.java/)
 * [Devoxx Conference](https://www.youtube.com/@DevoxxForever)
 * [OpenJDK Developers’ Guide](https://openjdk.org/guide/)
+
+## [Elixir](https://en.wikipedia.org/wiki/Elixir_(programming_language)
+* [Interview with José Valim - 02-09-2023](https://www.youtube.com/watch?v=LknqlTouTKg)
