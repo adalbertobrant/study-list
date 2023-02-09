@@ -11,3 +11,5 @@ List of libraries, frameworks, technologies and articles for studying many techn
 * [MIPS&reg; MIPS32 Architecture](https://www.mips.com/products/architectures/mips32-2/)
 * [MIPS&reg; MIPS64 Architecture](https://www.mips.com/products/architectures/mips64/)
 * [Netwide&reg; Assembler](https://nasm.us/docs.php)
+
+## [C - ISO/IEC 9899](https://en.wikipedia.org/wiki/C_%28programming_language%29)
