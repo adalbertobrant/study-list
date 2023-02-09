@@ -1,7 +1,7 @@
 # study-list
 List of libraries, frameworks, technologies and articles for studying many technologies.
 
-## Assembly
+## [Assembly](https://en.wikipedia.org/wiki/Assembly_language)
 * [AMD&reg; Developer Guides, Manuals & ISA Documents](https://developer.amd.com/resources/developer-guides-manuals/)
 * [ARM&reg; A-profile A64 Instruction Set Architecture](https://developer.arm.com/documentation/ddi0602/2022-12/?lang=en)
 * [ARM&reg; A-profile A32/T32 Instruction Set Architecture](https://developer.arm.com/documentation/ddi0597/2022-12/?lang=en)
