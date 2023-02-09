@@ -33,3 +33,6 @@ List of libraries, frameworks, technologies and articles for studying many techn
 * [Quick C++ Benchmarks](https://quick-bench.com/)
 
 ## [Java](https://en.wikipedia.org/wiki/Java_%28programming_language%29)
+* [Dev.java](https://dev.java/)
+* [Devoxx Conference](https://www.youtube.com/@DevoxxForever)
+* [OpenJDK Developers’ Guide](https://openjdk.org/guide/)
