@@ -31,3 +31,5 @@ List of libraries, frameworks, technologies and articles for studying many techn
 * [LLVM Source Code](https://github.com/llvm/llvm-project)
 * [Microsoft&reg; implementation of STL](https://github.com/microsoft/STL)
 * [Quick C++ Benchmarks](https://quick-bench.com/)
+
+## [Java](https://en.wikipedia.org/wiki/Java_%28programming_language%29)
