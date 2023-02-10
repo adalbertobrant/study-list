@@ -12,7 +12,7 @@ List of libraries, frameworks, technologies and articles for studying many techn
 ### Tools
 * [GNU&reg; Binutils Assembler](https://sourceware.org/binutils/docs/as/index.html)
 * [Microsoft&reg; Macro Assembler](https://learn.microsoft.com/en-us/cpp/assembler/masm/microsoft-macro-assembler-reference?view=msvc-170)
-* [Netwide&reg; Assembler](https://nasm.us/docs.php)
+* [Netwide&reg; Assembler](https://nasm.us/docs.php)<br/><br/>
 
 ## [C - ISO/IEC 9899](https://en.wikipedia.org/wiki/C_%28programming_language%29)
 ### Learning
@@ -20,7 +20,7 @@ List of libraries, frameworks, technologies and articles for studying many techn
 * [ISO/IEC 9899:2018](https://www.iso.org/standard/74528.html)
 * [Microsoft&reg; C Language Reference](https://learn.microsoft.com/en-us/cpp/c-language/c-language-reference?view=msvc-170)
 ### Tools
-* [GNU&reg; Compiler Collection](https://gcc.gnu.org/onlinedocs/)
+* [GNU&reg; Compiler Collection](https://gcc.gnu.org/onlinedocs/)<br/><br/>
 
 ## [C++ - ISO/IEC 14882](https://en.wikipedia.org/wiki/C%2B%2B)
 ### Learning
@@ -42,4 +42,4 @@ List of libraries, frameworks, technologies and articles for studying many techn
 ## [Java](https://en.wikipedia.org/wiki/Java_%28programming_language%29)
 * [Dev.java](https://dev.java/)
 * [Devoxx Conference](https://www.youtube.com/@DevoxxForever)
-* [OpenJDK Developers’ Guide](https://openjdk.org/guide/)
+* [OpenJDK Developers’ Guide](https://openjdk.org/guide/)<br/><br/>
